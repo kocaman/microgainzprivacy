@@ -60,3 +60,27 @@ Changes to this policy
 We may update this policy from time to time. When we do, we will update the "Last updated" date at the top of this document. If changes are significant, we will notify users through the app.
 Contact us
 If you have questions about this policy or about Microgainz's privacy practices, contact us at: kocamanhaluk@gmail.com
+
+# Microgainz Support
+
+If you have questions, feedback, or run into any issues using Microgainz, we'd love to hear from you.
+
+## Contact
+
+Email us at: microgainzmarketing@gmail.com
+
+We typically respond within 2 business days.
+
+## Common questions
+
+**How does Microgainz work?**
+Microgainz helps you fit short workouts (30 to 120 seconds) into your daily routines. Set up a habit, pair it with a time window when you're free, and Microgainz reminds you to complete it.
+
+**My streak disappeared. Can it be restored?**
+Streaks reset when a scheduled day passes without a completion. Once reset, they can't be restored — but you can start a new one immediately.
+
+**How do I delete my account?**
+Go to Settings → Delete Account. This permanently removes all your data from iCloud.
+
+**Why don't I get notifications?**
+Make sure notifications are enabled in iOS Settings → Microgainz → Notifications. Also check that your habit is set as Active and that the current time is within its scheduled window.
